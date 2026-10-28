@@ -5,7 +5,7 @@ export const profile = {
   graduation: 'Class of 2029',
   involvement: 'Leadership Intern Volunteer with National Inventors Hall of Fame',
   emails: [
-    { label: 'Personal email', address: '' },
-    { label: 'School email', address: '' },
+    { label: 'Personal email', address: 'mercy.ameye@chiefsoft.com' },
+    { label: 'School email', address: 'tameye1@students.kennesaw.edu' },
   ],
 }
