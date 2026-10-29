@@ -8,8 +8,10 @@ export function CallingCard() {
       <div className="flex flex-col gap-8 p-8 sm:p-10">
         <header className="flex flex-col gap-3">
           <h1 className="text-balance text-4xl font-semibold tracking-tight text-slate-900">
-            My Personal Info
-          </h1>
+  My Personal Info
+  </h1>
+  <p className="text-sm font-medium text-orange-700">Now on GitHub</p>
+
           <p className="text-xl font-medium text-slate-900">{profile.name}</p>
           <p className="text-lg font-medium text-orange-700">{profile.role}</p>
           <p className="text-pretty leading-relaxed text-slate-600">
